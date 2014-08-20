@@ -16,7 +16,7 @@ Linux - /home/$user/.config/blender/$version/scripts/addons
 6. import the .fly file via menu. Note: only first dataset will be imported.
 
 example start of a fly file:
-![alt start](ExampleSimion.png "Start")
+![alt start](examplesimion.png "Start")
 
 
 example result with an imported geometry file:

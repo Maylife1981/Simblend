@@ -1,0 +1,2 @@
+# Ignoring python cached bytecode files
+*.pyc
